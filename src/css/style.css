@@ -112,6 +112,7 @@ body {
   border-radius: 10px;
 }
 
+
 .sobre-nos {
   background-color: #fdbf00;
   color: #000;
@@ -144,5 +145,11 @@ body {
 
 #contato img{
   width: 70px;
-  
+}
+
+/*Faz com que a imagem suma com o determinado tamanho da tela*/
+@media (max-width: 800px){
+  .img2{
+    display: none;
+  }
 }
