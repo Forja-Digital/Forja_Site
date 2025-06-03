@@ -144,7 +144,7 @@ body {
 }
 
 #contato img{
-  width: 70px;
+  width: 60px;
 }
 
 /*Faz com que a imagem suma com o determinado tamanho da tela*/
@@ -152,4 +152,9 @@ body {
   .img2{
     display: none;
   }
+}
+
+h6{
+  text-align: center;
+  color: #fdbf00;
 }
